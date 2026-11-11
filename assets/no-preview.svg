@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="383" viewBox="0 0 680 383">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.9">
+      <stop offset="0" stop-color="#6b4eff" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#6b4eff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#6b4eff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f17"/>
+      <stop offset="1" stop-color="#0a0a0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="383" fill="url(#bg)"/>
+  <rect width="680" height="383" fill="url(#glow)"/>
+
+  <!-- corner stars -->
+  <g fill="#f2f0ea">
+    <circle cx="60" cy="52" r="1.5" opacity="0.7"/>
+    <circle cx="620" cy="70" r="1.2" opacity="0.5"/>
+    <circle cx="90" cy="330" r="1.2" opacity="0.45"/>
+    <circle cx="600" cy="320" r="1.6" opacity="0.6"/>
+    <circle cx="340" cy="40" r="1" opacity="0.35"/>
+  </g>
+
+  <!-- open arrow icon -->
+  <g transform="translate(316,120)" stroke="#6b4eff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 12 36 L 36 12"/>
+    <path d="M 16 12 L 36 12 L 36 32"/>
+  </g>
+
+  <!-- texts -->
+  <text x="340" y="208" text-anchor="middle" font-family="'Space Grotesk', 'Noto Sans SC', sans-serif" font-size="34" font-weight="600" fill="#f2f0ea">Open to play ↗</text>
+  <text x="340" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="20" letter-spacing="2" fill="#5b5a68">no preview in the original post</text>
+</svg>

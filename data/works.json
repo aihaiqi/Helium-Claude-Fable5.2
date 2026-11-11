@@ -1,0 +1,2332 @@
+[
+ {
+  "id": 1,
+  "section": "游戏",
+  "title": "Saltline — first-person shooter",
+  "title_zh": "Saltline 第一人称射击",
+  "description": "By an Anthropic engineer. One-shot prompts, no human feedback, 8 hours, ~$550. Models, sounds and textures all generated in code.",
+  "description_zh": "Anthropic 工程师；一次性提示、无人工反馈跑 8 小时，约 $550；模型、音效、贴图全部代码生成",
+  "author": "felixrieseberg",
+  "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+  "extra_links": [],
+  "post": "https://x.com/felixrieseberg/status/2119925633564463609",
+  "likes": 7485,
+  "preview": "assets/gifs/001.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119919821538447360/vid/avc1/3648x2022/y1dhMLmyKZ-oidQ6.mp4?tag=29",
+    "duration_s": 72.128
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "section": "游戏",
+  "title": "Three Games (Saltline · The Clockmaker's Heart · Tidewright)",
+  "title_zh": "Three Games 合集页（Saltline / 钟表匠之心 / Tidewright）",
+  "description": "Signed by Felix Rieseberg: \"All games made with Claude Fable 5.2. First drafts, no human feedback.\" The most-shared link of launch day.",
+  "description_zh": "页面署名 Felix Rieseberg，写明三款都是 Fable 5.2 无人工反馈的初稿；被转发最多的链接（视频来自转发者 @vineerpasam）",
+  "author": "felixrieseberg",
+  "url": "https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin",
+  "extra_links": [
+   "钟表匠之心 https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa",
+   "Tidewright https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4"
+  ],
+  "post": "https://x.com/vineerpasam/status/2119955306096857145",
+  "likes": 730,
+  "preview": "assets/gifs/002.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120014906229481472/vid/avc1/1920x1080/69QNQTLuAU7i8GpZ.mp4?tag=29",
+    "duration_s": 63.333
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "section": "游戏",
+  "title": "Mirror Earth",
+  "title_zh": "Mirror Earth 镜像地球",
+  "description": "The whole planet as a destructible game world, with weather that matches the real Earth in real time.",
+  "description_zh": "整个地球可去可破坏，天气等与真实地球实时同步",
+  "author": "mattshumer_",
+  "url": "https://www.spawn.co/@mattshumer/earth?room=local",
+  "extra_links": [],
+  "post": "https://x.com/mattshumer_/status/2119877065701036047",
+  "likes": 2032,
+  "preview": "assets/gifs/003.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119876453340782592/vid/avc1/1920x1080/fHB6cN_UkwptVASd.mp4?tag=29",
+    "duration_s": 56.8
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "section": "游戏",
+  "title": "Voxel Engine",
+  "title_zh": "体素引擎",
+  "description": "Built from a single prompt. Sound on.",
+  "description_zh": "一条提示词生成，要开声音",
+  "author": "mattshumer_",
+  "url": "https://www.spawn.co/@mattshumer/voxel-engine",
+  "extra_links": [],
+  "post": "https://x.com/mattshumer_/status/2119870965106483384",
+  "likes": 668,
+  "preview": "assets/gifs/004.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119870538436767745/vid/avc1/1280x720/Rul4Oy5QL34LIwQ6.mp4?tag=29",
+    "duration_s": 59.066
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "section": "游戏",
+  "title": "Hogwarts Royale",
+  "title_zh": "Hogwarts Royale（哈利·波特 × 堡垒之夜）",
+  "description": "\"Create a mashup of Harry Potter and Fortnite\" — a playable battle royale.",
+  "description_zh": "大逃杀玩法",
+  "author": "mattshumer_",
+  "url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+  "extra_links": [],
+  "post": "https://x.com/mattshumer_/status/2119872098306810226",
+  "likes": 281,
+  "preview": "assets/gifs/005.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119871902541881344/vid/avc1/1920x1080/cTrCH0UyeCYMxFoS.mp4?tag=29",
+    "duration_s": 62.72
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "section": "游戏",
+  "title": "Portals: Endless Worlds",
+  "title_zh": "Portals 无尽传送门世界",
+  "description": "25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through.",
+  "description_zh": "2.5 万个 Agent 做出 450 多个代码 3D 世界，传送门相连自动漫游",
+  "author": "emollick",
+  "url": "https://portals-endless-worlds.netlify.app/",
+  "extra_links": [
+   "源码 https://github.com/emollick/ai-portals",
+   "文章 https://www.oneusefulthing.org/p/fable-52-and-jagged-agi"
+  ],
+  "post": "https://x.com/emollick/status/2119918307457577163",
+  "likes": 1460,
+  "preview": "assets/gifs/006.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119916822719840256/vid/avc1/1280x720/lEbniPMiC8aWDbWF.mp4?tag=29",
+    "duration_s": 70.5
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "section": "游戏",
+  "title": "I Would Have Gotten Away With It",
+  "title_zh": "反向史酷比：吓跑多管闲事的孩子",
+  "description": "A reverse Scooby-Doo: you are the villain scaring off meddling kids. Fable also made the trailer, music and sound.",
+  "description_zh": "预告片的音乐音效也是它做的",
+  "author": "emollick",
+  "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+  "extra_links": [],
+  "post": "https://x.com/emollick/status/2119876449494540554",
+  "likes": 450,
+  "preview": "assets/gifs/007.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119876130807197696/vid/avc1/1920x1080/dXuwXYdOdQQhPX84.mp4?tag=29",
+    "duration_s": 60.5
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "section": "游戏",
+  "title": "What the Water Keeps",
+  "title_zh": "What the Water Keeps 梦境划船",
+  "description": "A boat ride through 8 dreamlike worlds, playable in the browser.",
+  "description_zh": "穿过 8 个梦境世界的划船游戏；原帖没放链接，链接来自转发者 @Bhavani_00007 / @meta_pavy",
+  "author": "kevin_t_ngo",
+  "url": "https://what-the-water-keeps.vercel.app/",
+  "extra_links": [],
+  "post": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+  "likes": 3651,
+  "preview": "assets/gifs/008.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119868394363367424/vid/avc1/1920x1080/CrAv3IqRv4_2D7bU.mp4?tag=29",
+    "duration_s": 57
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "section": "游戏",
+  "title": "Turbo Tails",
+  "title_zh": "Turbo Tails 3D 卡丁车",
+  "description": "3D kart racer: 6 racers, drifting, ramps, items, single and multiplayer.",
+  "description_zh": "6 名车手、漂移、道具，单人和多人",
+  "author": "petergyang",
+  "url": "https://turbo-tails.vercel.app",
+  "extra_links": [
+   "对比视频 https://youtu.be/SsSKJA0EHD4"
+  ],
+  "post": "https://x.com/petergyang/status/2119901658394358005",
+  "likes": 112,
+  "preview": "assets/gifs/009.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119901596008263680/vid/avc1/1920x1080/bZzGqWp4QvSXV_vV.mp4?tag=16",
+    "duration_s": 20
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "section": "游戏",
+  "title": "Childhood Rug Racer",
+  "title_zh": "童年地毯赛车",
+  "description": "A racing game on your childhood play rug, same prompt as GPT-6.2 Sol. The author calls the model \"Fable 5.5 (routing)\".",
+  "description_zh": "同题对比 GPT-6.2 Sol；作者写的是路由到的「Fable 5.5」",
+  "author": "noclipepe",
+  "url": "https://noclipepe.pages.dev/rug/",
+  "extra_links": [],
+  "post": "https://x.com/noclipepe/status/2119728047754547326",
+  "likes": 404,
+  "preview": "assets/gifs/010.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119727893148241920/vid/avc1/1200x1200/a3zBfGcQIY1BxDw6.mp4?tag=29",
+    "duration_s": 74.3
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "section": "游戏",
+  "title": "Rambo Dino",
+  "title_zh": "Chrome 恐龙变兰博",
+  "description": "The Chrome T-Rex game, rebuilt. Compared against Opus 5.5, Gemini 4 Carbon and GPT-6 Astra.",
+  "description_zh": "老 T-Rex 测试，对比 Opus / Gemini / GPT",
+  "author": "noclipepe",
+  "url": "https://noclipepe.pages.dev/dino",
+  "extra_links": [],
+  "post": "https://x.com/noclipepe/status/2119927838321328577",
+  "likes": 97,
+  "preview": "assets/gifs/011.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119923874267607040/vid/avc1/1080x1350/0u8PE5eAphSnn0c9.mp4?tag=29",
+    "duration_s": 27.066
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "section": "游戏",
+  "title": "Frontline Warfare Deathmatch",
+  "title_zh": "Frontline 类 COD 死斗",
+  "description": "A Call of Duty-style shooter in the browser.",
+  "description_zh": "浏览器里的使命召唤式射击",
+  "author": "alightinastorm",
+  "url": "https://spawn.co/@robot/frontline-warfare-deathmatch",
+  "extra_links": [],
+  "post": "https://x.com/alightinastorm/status/2120020469487440210",
+  "likes": 86,
+  "preview": "assets/gifs/012.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120020347520966656/vid/avc1/1912x1080/PWmFQGGUX_XxS_Kn.mp4?tag=29",
+    "duration_s": 70.833
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "section": "游戏",
+  "title": "Feed the Backrooms",
+  "title_zh": "Feed the Backrooms：你当怪物",
+  "description": "The Backrooms, reversed: you are the monster and your job is to catch people.",
+  "description_zh": "后室反转玩法，你负责抓人",
+  "author": "LexnLin",
+  "url": "https://feed-backrooms.vercel.app",
+  "extra_links": [],
+  "post": "https://x.com/LexnLin/status/2119966127149429093",
+  "likes": 80,
+  "preview": "assets/gifs/013.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119959903062183936/vid/avc1/1280x720/X10eV4fLngmXri42.mp4?tag=29",
+    "duration_s": 45
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "section": "游戏",
+  "title": "Cloud Stunt 3D",
+  "title_zh": "云端特技 3D",
+  "description": "Generated in 30 minutes; an optimized \"golden\" version is linked too.",
+  "description_zh": "30 分钟生成",
+  "author": "jev_chat",
+  "url": "https://finderchangchang.github.io/cloud-stunt-3d/",
+  "extra_links": [
+   "优化版 https://finderchangchang.github.io/cloud-stunt-3d/golden/"
+  ],
+  "post": "https://x.com/jev_chat/status/2120015641151426838",
+  "likes": 171,
+  "preview": "assets/gifs/014.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120015344601534464/vid/avc1/1916x1028/xEfdKmIJwxS227RO.mp4?tag=29",
+    "duration_s": 62.597
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "section": "游戏",
+  "title": "Worm Rider",
+  "title_zh": "Worm Rider 沙虫骑士",
+  "description": "Open source. 220 KB, 3,400 lines, 10 prompts, every model built from scratch in Claude Code.",
+  "description_zh": "开源；220KB、3400 行、10 条提示词，模型全部代码建",
+  "author": "AmirMushich",
+  "url": "https://github.com/amirmushichge/worm-rider",
+  "extra_links": [],
+  "post": "https://x.com/AmirMushich/status/2119937977426338283",
+  "likes": 170,
+  "preview": "assets/gifs/015.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119936256498962432/vid/avc1/1920x1080/pYXo58uow7BeKq9v.mp4?tag=29",
+    "duration_s": 21.641
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "section": "游戏",
+  "title": "Roost",
+  "title_zh": "Roost 3D 越野摩托",
+  "description": "3D dirt-bike racing in one chat: 5 prompts, 15 minutes, 3 tracks, AI rivals, nitro, handlebar cam.",
+  "description_zh": "5 条提示词 15 分钟；3 条赛道、AI 对手、氮气",
+  "author": "tejas3732",
+  "url": "https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ",
+  "extra_links": [],
+  "post": "https://x.com/tejas3732/status/2120091513657139549",
+  "likes": 2,
+  "preview": "assets/gifs/016.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120090652637888512/vid/avc1/2300x1080/YvMVU8FmE3ZZOd4M.mp4?tag=29",
+    "duration_s": 41.472
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "section": "游戏",
+  "title": "Stray Cat",
+  "title_zh": "流浪猫游戏",
+  "description": "Rescue kittens, hiss at dogs, yowl at an old tomcat. Every sound is synthesized.",
+  "description_zh": "救小猫、冲狗哈气、和老公猫对嚎，声音全部合成",
+  "author": "aimikoda",
+  "url": "https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt",
+  "extra_links": [],
+  "post": "https://x.com/aimikoda/status/2120120133712593118",
+  "likes": 13,
+  "preview": "assets/gifs/017.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120119649870184448/vid/avc1/1920x1080/tWyEt9OjdDhrEWyf.mp4?tag=29",
+    "duration_s": 96.466
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "section": "游戏",
+  "title": "Tilt Labyrinth",
+  "title_zh": "木头滚珠迷宫",
+  "description": "A wooden ball maze in 2,000 lines of three.js. Fable profiled it from 55 ms to 9 ms per frame on its own.",
+  "description_zh": "three.js 2000 行，它自己把单帧从 55ms 优化到 9ms",
+  "author": "mylifcc",
+  "url": "https://blog.silencestar.com/posts/tilt-labyrinth/play/",
+  "extra_links": [],
+  "post": "https://x.com/mylifcc/status/2120054646282870910",
+  "likes": 15,
+  "preview": "assets/gifs/018.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120052612133539840/vid/avc1/3184x1538/FhgGJzwoHzJkE4iQ.mp4?tag=29",
+    "duration_s": 51.041
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "section": "游戏",
+  "title": "Silicon Seduction",
+  "title_zh": "Silicon Seduction",
+  "description": "Can you make it out without being seduced?",
+  "description_zh": "逃出去别被诱惑",
+  "author": "ZryMiller",
+  "url": "https://silicon-seduction.vercel.app/",
+  "extra_links": [],
+  "post": "https://x.com/ZryMiller/status/2119918766691954691",
+  "likes": 12,
+  "preview": "assets/gifs/019.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119917040861655040/vid/avc1/554x934/2nPrQLWIGp_JwjYl.mp4?tag=29",
+    "duration_s": 40.031
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "section": "游戏",
+  "title": "Vippi",
+  "title_zh": "Vippi 类 COD 射击",
+  "description": "A COD-style shooter. The author's creepy-game benchmark is linked too.",
+  "description_zh": "",
+  "author": "Shrit1401",
+  "url": "https://vippi.vercel.app/",
+  "extra_links": [
+   "恐怖游戏测试 https://claude.ai/artifact/HSxhHE91J2jhLsB8WiTgUc"
+  ],
+  "post": "https://x.com/Shrit1401/status/2120060593763926314",
+  "likes": 1,
+  "preview": "assets/gifs/020.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120060225436938240/vid/avc1/1920x1080/Tp_eR5QHjbfNeb23.mp4?tag=29",
+    "duration_s": 74
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "section": "游戏",
+  "title": "Four-character fighting game",
+  "title_zh": "格斗游戏（ElevenLabs 配音）",
+  "description": "Fable 5.2 + ElevenLabs MCP for 39 voice and sound clips, including an announcer it designed. Desktop + keyboard.",
+  "description_zh": "Fable 5.2 + ElevenLabs MCP，桌面键盘玩",
+  "author": "promodenstudio",
+  "url": "https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo",
+  "extra_links": [],
+  "post": "https://x.com/promodenstudio/status/2120085977079107788",
+  "likes": 2,
+  "preview": "assets/gifs/021.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120084797410127872/vid/avc1/1920x1084/K18MLA0z8oid7Joj.mp4?tag=29",
+    "duration_s": 38.7
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "section": "游戏",
+  "title": "VOWLORN",
+  "title_zh": "VOWLORN 纯代码暗黑 RPG",
+  "description": "A dark RPG where even the voices are code, deployed through Higgsfield MCP. Links go to the play pages with full workflows.",
+  "description_zh": "配音也是代码生成，经 Higgsfield MCP 发布；链接是带试玩入口的博客页",
+  "author": "higgsfield_ai",
+  "url": "https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step",
+  "extra_links": [
+   "骑龙游戏 https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free",
+   "手绘变恐怖游戏 https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game"
+  ],
+  "post": "https://x.com/higgsfield_ai/status/2119997122896601269",
+  "likes": 24,
+  "preview": "assets/gifs/022.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119995974978592768/vid/avc1/1896x1080/PY2jwSIOPi2XeLLA.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "section": "3D 场景",
+  "title": "Claude App on a Blender laptop",
+  "title_zh": "Blender 房间里的「Claude App」网页",
+  "description": "One prompt built the whole room in Blender and rendered it in 4K. This is the web page shown on the laptop screen.",
+  "description_zh": "一条提示词建整个房间并渲 4K；链接是笔记本屏幕上那个仿 Claude App 的网页",
+  "author": "rileybrown",
+  "url": "https://claude.ai/artifact/QGWUAjRrzRzZWGcQzSMLfa",
+  "extra_links": [],
+  "post": "https://x.com/rileybrown/status/2119902109709537708",
+  "likes": 5218,
+  "preview": "assets/gifs/023.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119897796736131072/vid/avc1/3840x2160/pzacfkpXtKVX4i85.mp4?tag=29",
+    "duration_s": 59
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "section": "3D 场景",
+  "title": "1 km² of Indiranagar",
+  "title_zh": "印度班加罗尔 Indiranagar 1 平方公里",
+  "description": "A live 3D slice of Bengaluru from map data and one prompt.",
+  "description_zh": "用他们的地图数据 + 一条提示词",
+  "author": "anshu4321",
+  "url": "https://indiranagar-live.vercel.app",
+  "extra_links": [],
+  "post": "https://x.com/anshu4321/status/2119938067758772403",
+  "likes": 405,
+  "preview": "assets/gifs/024.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119937544754188288/vid/avc1/1920x1080/ex6O3At3IefrU4kM.mp4?tag=29",
+    "duration_s": 35
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "section": "3D 场景",
+  "title": "Pirate Ship",
+  "title_zh": "海盗船航行",
+  "description": "One shot, ~1.5 hours, ~35M tokens (~$34).",
+  "description_zh": "一次生成，1.5 小时、约 $34",
+  "author": "notjazii",
+  "url": "https://tests.jazii.dev/",
+  "extra_links": [],
+  "post": "https://x.com/notjazii/status/2119905661505122575",
+  "likes": 107,
+  "preview": "assets/gifs/025.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119904377221910528/vid/avc1/1920x1080/NVeak_ycaNknS-mN.mp4?tag=29",
+    "duration_s": 49.9
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "section": "3D 场景",
+  "title": "3D Sailing Ship",
+  "title_zh": "3D 帆船",
+  "description": "Pure Three.js, no Blender or external assets. ~38 minutes, ~$17.",
+  "description_zh": "纯 Three.js，约 38 分钟 $17",
+  "author": "marcthecreatorr",
+  "url": "https://claude.ai/artifact/7ge282etTXSS4edGFTFa85",
+  "extra_links": [],
+  "post": "https://x.com/marcthecreatorr/status/2119890973560054072",
+  "likes": 100,
+  "preview": "assets/gifs/026.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29",
+    "duration_s": 53.172
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "section": "3D 场景",
+  "title": "Voxel World in a Bottle",
+  "title_zh": "瓶中体素世界",
+  "description": "30 minutes, $12.81.",
+  "description_zh": "30 分钟 $12.81",
+  "author": "vib3coded",
+  "url": "https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f",
+  "extra_links": [],
+  "post": "https://x.com/vib3coded/status/2120104517282775514",
+  "likes": 55,
+  "preview": "assets/gifs/027.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120104433254068225/vid/avc1/1920x1080/TwqTpSJ125nfAGeC.mp4?tag=29",
+    "duration_s": 17
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "section": "3D 场景",
+  "title": "Orca Jelly",
+  "title_zh": "果冻虎鲸材质研究",
+  "description": "A soft-body gummy orca material study. Opus 5.5's version is linked for comparison.",
+  "description_zh": "软体果冻虎鲸，Fable 对 Opus",
+  "author": "vib3coded",
+  "url": "https://claude.ai/artifact/2PBXuQAnWDS2NpiPXHNLfL",
+  "extra_links": [
+   "Opus 5.5 版 https://claude.ai/artifact/75KLotWzZQ5RR23BGLePb8"
+  ],
+  "post": "https://x.com/vib3coded/status/2119951060752375827",
+  "likes": 102,
+  "preview": "assets/gifs/028.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119950988110921729/vid/avc1/1440x1820/qEfequoabGknZlKg.mp4?tag=29",
+    "duration_s": 18
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "section": "3D 场景",
+  "title": "Voxel Colosseum",
+  "title_zh": "体素罗马斗兽场",
+  "description": "Walk around the ruined inner ring. Opus 5.5's diorama version is linked for comparison.",
+  "description_zh": "可以走进废墟内环",
+  "author": "aGim_asf",
+  "url": "https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz",
+  "extra_links": [
+   "Opus 5.5 版 https://claude.ai/artifact/B7ZmVS7Yr3BUc99ZyGk2bX"
+  ],
+  "post": "https://x.com/aGim_asf/status/2119918363799376270",
+  "likes": 19,
+  "preview": "assets/gifs/029.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119918307037810688/vid/avc1/1920x780/9NobdvdDulZpwBvg.mp4?tag=29",
+    "duration_s": 10
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "section": "3D 场景",
+  "title": "A Hamlet on a Giant Snail",
+  "title_zh": "骑巨蜗牛的村庄",
+  "description": "\"Bring a 3D castle to life in an HTML file.\" Hand-written WebGL2, no libraries, ~5,500 trees, day/night cycle.",
+  "description_zh": "手写 WebGL2，无库无素材，昼夜循环、约 5500 棵树",
+  "author": "L34342Lin",
+  "url": "https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN",
+  "extra_links": [],
+  "post": "https://x.com/L34342Lin/status/2120030246108066195",
+  "likes": 0,
+  "preview": "assets/gifs/030.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120030206933307392/vid/avc1/1280x720/7fEPEQnd6Xd-wxpi.mp4?tag=29",
+    "duration_s": 15
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "section": "3D 场景",
+  "title": "Wooden Pagoda Transformation",
+  "title_zh": "五层木塔变身斗笠女侠",
+  "description": "3,357 parts assemble a five-storey pagoda that turns into a swordswoman. Music computed in code.",
+  "description_zh": "3357 个构件，配乐代码现算，可拖拽、点击变身",
+  "author": "acupofai",
+  "url": "https://claude.ai/artifact/UqU4w7jSr6pzF2McsbyQjJ",
+  "extra_links": [],
+  "post": "https://x.com/acupofai/status/2120119243043995748",
+  "likes": 0,
+  "preview": "assets/gifs/031.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120118780470976512/vid/avc1/1080x1920/YFkDlvP5Gel1tgop.mp4?tag=29",
+    "duration_s": 31.021
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "section": "3D 场景",
+  "title": "Vancouver From Above",
+  "title_zh": "温哥华鸟瞰",
+  "description": "The city rebuilt in three.js.",
+  "description_zh": "Three.js 重建城市",
+  "author": "tokifyi",
+  "url": "https://vancouver.webly.site",
+  "extra_links": [],
+  "post": "https://x.com/tokifyi/status/2120020272153764172",
+  "likes": 39,
+  "preview": "assets/gifs/032.gif",
+  "videos": []
+ },
+ {
+  "id": 33,
+  "section": "3D 场景",
+  "title": "One-way Trip to a Black Hole",
+  "title_zh": "单程太空旅行个人站",
+  "description": "A personal site rebuilt as a scroll journey from Earth to a black hole.",
+  "description_zh": "从地球滑到黑洞",
+  "author": "ZondarkAI",
+  "url": "https://zondark.com",
+  "extra_links": [],
+  "post": "https://x.com/ZondarkAI/status/2120106341423571097",
+  "likes": 4,
+  "preview": "assets/gifs/033.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120100974677389313/vid/avc1/1920x1080/8SUpue6lDf_pvLSq.mp4?tag=29",
+    "duration_s": 34
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "section": "3D 场景",
+  "title": "Belt Stress Test",
+  "title_zh": "小行星带压力测试",
+  "description": "~20,000 orbiting asteroids; it keeps adding rocks until your device drops below 30 fps.",
+  "description_zh": "约 2 万颗小行星环绕，不断加岩石直到设备掉到 30 帧",
+  "author": "fadihares95",
+  "url": "https://claude.ai/artifact/FETrKoitcqxPQjbQvZd79C",
+  "extra_links": [],
+  "post": "https://x.com/fadihares95/status/2119885634814857500",
+  "likes": 4,
+  "preview": "assets/gifs/034.gif",
+  "videos": []
+ },
+ {
+  "id": 36,
+  "section": "网页与工具",
+  "title": "Typed",
+  "title_zh": "Typed 打字机",
+  "description": "A fully working typewriter: type or click keys, writing timers, whiteout, autocorrect.",
+  "description_zh": "能打字、计时、涂改液、自动更正的完整打字机",
+  "author": "clairevo",
+  "url": "https://typed.page/",
+  "extra_links": [],
+  "post": "https://x.com/clairevo/status/2119905651359142132",
+  "likes": 167,
+  "preview": "assets/gifs/036.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119905440352055296/vid/avc1/1920x1080/iC79cUKiFb-L77DB.mp4?tag=29",
+    "duration_s": 49.791
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "section": "网页与工具",
+  "title": "Which Vitamins to Buy in India",
+  "title_zh": "印度维生素该买哪些",
+  "description": "Built after reading lab reports for 109 tested batches.",
+  "description_zh": "读了 109 批检测报告做成的指南页",
+  "author": "itspsneha",
+  "url": "https://itspsneha.com/supplements",
+  "extra_links": [],
+  "post": "https://x.com/itspsneha/status/2120048494761451974",
+  "likes": 433,
+  "preview": "assets/gifs/037.gif",
+  "videos": []
+ },
+ {
+  "id": 38,
+  "section": "网页与工具",
+  "title": "Claudia Gallery",
+  "title_zh": "Claudia Gallery",
+  "description": "\"Make the video of your dreams\" — two shots, 9 hours.",
+  "description_zh": "让它做「梦想中的视频」，9 小时两轮",
+  "author": "anabology",
+  "url": "https://claudia.gallery",
+  "extra_links": [],
+  "post": "https://x.com/anabology/status/2120010995309457643",
+  "likes": 1145,
+  "preview": "assets/gifs/038.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120010889222848512/vid/avc1/1920x1080/yU8xruKAQjBwtUEd.mp4?tag=29",
+    "duration_s": 243.502
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "section": "网页与工具",
+  "title": "The History of Writing",
+  "title_zh": "写作史（交互片）",
+  "description": "An interactive film from one prompt; prompt and files shared.",
+  "description_zh": "一条提示词",
+  "author": "rileybrown",
+  "url": "https://v2.video/riley/the-history-of-writing/v1",
+  "extra_links": [],
+  "post": "https://x.com/rileybrown/status/2119946022767980985",
+  "likes": 532,
+  "preview": "assets/gifs/039.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119945592977653760/vid/avc1/3840x2160/foNEVBH2Khao6Dd6.mp4?tag=29",
+    "duration_s": 96
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "section": "网页与工具",
+  "title": "Bay Drum Kit",
+  "title_zh": "鼓组网站",
+  "description": "Every hit reverberates across the bay.",
+  "description_zh": "每次敲击海湾都有混响",
+  "author": "BretKerr",
+  "url": "https://claude.ai/artifact/9yQkezie4jY3oz2YDLFDiq",
+  "extra_links": [],
+  "post": "https://x.com/BretKerr/status/2119995870854988177",
+  "likes": 4,
+  "preview": "assets/gifs/040.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119995820833394688/vid/avc1/720x1278/atsPPnaDOS11uoxA.mp4?tag=29",
+    "duration_s": 47.425
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "section": "网页与工具",
+  "title": "Dub Techno Track + Visualizer",
+  "title_zh": "Dub Techno 曲子 + 可视化",
+  "description": "One shot.",
+  "description_zh": "一次生成",
+  "author": "bartdecrem",
+  "url": "https://claude.ai/artifact/Pk6rHPyRwfShT37kiU1sT6",
+  "extra_links": [],
+  "post": "https://x.com/bartdecrem/status/2119926997422133417",
+  "likes": 4,
+  "preview": "assets/gifs/041.gif",
+  "videos": []
+ },
+ {
+  "id": 42,
+  "section": "网页与工具",
+  "title": "Demoscene Demo",
+  "title_zh": "Demoscene 浏览器演示",
+  "description": "\"Make a demo in the demoscene tradition that runs in the browser.\"",
+  "description_zh": "按 demoscene 传统炫技",
+  "author": "ndril",
+  "url": "https://claude.ai/artifact/4aEy6FtUi7jrm9U7uYgp8K",
+  "extra_links": [],
+  "post": "https://x.com/ndril/status/2119899340642894235",
+  "likes": 1,
+  "preview": "assets/gifs/042.gif",
+  "videos": []
+ },
+ {
+  "id": 43,
+  "section": "网页与工具",
+  "title": "112 Forms of Meditation",
+  "title_zh": "112 种冥想图解",
+  "description": "Visualized for techies.",
+  "description_zh": "给技术人看的可视化",
+  "author": "RishabJ108",
+  "url": "https://claude.ai/artifact/H8E7AonW2KFrzdRimaLeXb",
+  "extra_links": [],
+  "post": "https://x.com/RishabJ108/status/2120042407484084558",
+  "likes": 0,
+  "preview": "assets/gifs/043.gif",
+  "videos": []
+ },
+ {
+  "id": 44,
+  "section": "网页与工具",
+  "title": "Ramayana Family Tree",
+  "title_zh": "《罗摩衍那》男主的宝莱坞家谱",
+  "description": "The lead actor's ties by blood and marriage to 65 Bollywood stars.",
+  "description_zh": "血缘婚姻牵出 65 位明星",
+  "author": "chhavsz",
+  "url": "https://claude.ai/artifact/5ufHvxgvXTf5YgQeTR8TbG",
+  "extra_links": [],
+  "post": "https://x.com/chhavsz/status/2119942973958078785",
+  "likes": 2,
+  "preview": "assets/gifs/044.gif",
+  "videos": []
+ },
+ {
+  "id": 45,
+  "section": "网页与工具",
+  "title": "House Design Proposal",
+  "title_zh": "独栋住宅设计提案书",
+  "description": "A detached-house design proposal (Korean), made in a day.",
+  "description_zh": "韩文，一天做完",
+  "author": "pnumech",
+  "url": "https://claude.ai/artifact/TiymxxFXzMo7xhWUaecbzk",
+  "extra_links": [],
+  "post": "https://x.com/pnumech/status/2120117665041940807",
+  "likes": 3,
+  "preview": "https://pbs.twimg.com/media/HWwrmvIb0AAMLPK.jpg?name=small",
+  "videos": []
+ },
+ {
+  "id": 46,
+  "section": "网页与工具",
+  "title": "20 Landing Page Redesigns",
+  "title_zh": "JWT 落地页 20 种改版",
+  "description": "20 alternatives to a JWT plugin's landing page from one simple prompt.",
+  "description_zh": "一条简单提示词出 20 版",
+  "author": "Tmeister",
+  "url": "https://jwt-designs-preview.noone-697.workers.dev/",
+  "extra_links": [],
+  "post": "https://x.com/Tmeister/status/2119983842841018482",
+  "likes": 7,
+  "preview": "assets/gifs/046.gif",
+  "videos": []
+ },
+ {
+  "id": 47,
+  "section": "网页与工具",
+  "title": "Driftwood (Fable vs Opus)",
+  "title_zh": "Driftwood 落地页（Fable 对 Opus）",
+  "description": "Same prompt, one shot each, both pages live. Also: a Pomodoro focus room and a bug hunt.",
+  "description_zh": "同提示词一次生成，两版都在线",
+  "author": "AsumaCodes",
+  "url": "https://www.asumacodes.xyz/arena/driftwood",
+  "extra_links": [
+   "番茄钟专注室 https://www.asumacodes.xyz/arena/focus-room",
+   "找 Bug 对比 https://www.asumacodes.xyz/arena/bug-hunt",
+   "系列首页 https://www.asumacodes.xyz/arena"
+  ],
+  "post": "https://x.com/AsumaCodes/status/2120130668848177432",
+  "likes": 7,
+  "preview": "assets/gifs/047.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120130168161525760/vid/avc1/1920x1080/c2qiTuGgKjF46OFu.mp4?tag=29",
+    "duration_s": 34.666
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "section": "网页与工具",
+  "title": "Ribbon Hero",
+  "title_zh": "Ribbon Hero 首屏",
+  "description": "A hero section made with Fable 5.2 + GPT Image 2.6.",
+  "description_zh": "Fable 5.2 + GPT Image 2.6",
+  "author": "viktoroddy",
+  "url": "https://motionsites.ai/?prompt=vante-ribbon-hero",
+  "extra_links": [],
+  "post": "https://x.com/viktoroddy/status/2119985044542705916",
+  "likes": 65,
+  "preview": "assets/gifs/048.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119984993820897280/vid/avc1/1600x900/VHmeyAm_xRmcJQl4.mp4?tag=29",
+    "duration_s": 7
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "section": "网页与工具",
+  "title": "nikechan.com redesign",
+  "title_zh": "nikechan 个人站改版",
+  "description": "A personal site redesigned end to end.",
+  "description_zh": "日本开发者让它重做整站设计",
+  "author": "tegnike",
+  "url": "https://nikechan.com/",
+  "extra_links": [],
+  "post": "https://x.com/tegnike/status/2120110145841578173",
+  "likes": 58,
+  "preview": "assets/gifs/049.gif",
+  "videos": []
+ },
+ {
+  "id": 50,
+  "section": "网页与工具",
+  "title": "76 single-file HTML pieces",
+  "title_zh": "76 个单文件 HTML 视觉作品集",
+  "description": "Generative art, physics, type and UI, each with its original prompt.",
+  "description_zh": "每个都附原始提示词",
+  "author": "MiaAI_lab",
+  "url": "https://miaai-lab.github.io/Claude-Fable-5.2-HTML-Files/",
+  "extra_links": [],
+  "post": "https://x.com/MiaAI_lab/status/2119930229661503893",
+  "likes": 2026,
+  "preview": "assets/gifs/050.gif",
+  "videos": []
+ },
+ {
+  "id": 51,
+  "section": "视频与动画（附源码）",
+  "title": "One Sweep",
+  "title_zh": "One Sweep 78 秒动漫打斗",
+  "description": "A 78-second anime fight in pure Three.js, six agent teams in parallel. Author says \"Fable 5.5\".",
+  "description_zh": "纯 Three.js 代码，6 组 Agent 并行；作者写的是「Fable 5.5」",
+  "author": "anstapnever",
+  "url": "https://github.com/anstapnever/one-sweep",
+  "extra_links": [],
+  "post": "https://x.com/anstapnever/status/2119772039037014524",
+  "likes": 238,
+  "preview": "assets/gifs/051.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119770418265612288/vid/avc1/1920x1080/qPW2icHpGRWYfxKh.mp4?tag=29",
+    "duration_s": 78.208
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "section": "视频与动画（附源码）",
+  "title": "Blackout",
+  "title_zh": "Blackout 79 秒动漫",
+  "description": "A 79-second anime short, all code.",
+  "description_zh": "",
+  "author": "anstapnever",
+  "url": "https://github.com/anstapnever/blackout",
+  "extra_links": [],
+  "post": "https://x.com/anstapnever/status/2119915123070644263",
+  "likes": 96,
+  "preview": "assets/gifs/052.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119914875011096576/vid/avc1/1920x1080/LYDwvDn9oUPivgzm.mp4?tag=29",
+    "duration_s": 79.416
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "section": "视频与动画（附源码）",
+  "title": "Kagami",
+  "title_zh": "Kagami 84 秒动漫",
+  "description": "84 seconds of anime where every frame is code. Author says \"Fable 5.5\".",
+  "description_zh": "每一帧都是代码；作者写的是「Fable 5.5」",
+  "author": "flxrnc",
+  "url": "https://github.com/Florencvv/kagami",
+  "extra_links": [],
+  "post": "https://x.com/flxrnc/status/2119767052021903831",
+  "likes": 36,
+  "preview": "assets/gifs/053.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119756928754614272/vid/avc1/1920x1040/boY0U138Wq1YI8J_.mp4?tag=29",
+    "duration_s": 84
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "section": "视频与动画（附源码）",
+  "title": "Ryu",
+  "title_zh": "Ryu 山化龙",
+  "description": "A mountain wakes up as a dragon. No image or video models. Author says \"Fable 5.5\".",
+  "description_zh": "无生图无视频模型，5 组 Agent；作者写的是「Fable 5.5」",
+  "author": "seeconvm",
+  "url": "https://github.com/seeconever/ryu",
+  "extra_links": [],
+  "post": "https://x.com/seeconvm/status/2119777169542938662",
+  "likes": 36,
+  "preview": "assets/gifs/054.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119757180618317824/vid/avc1/1920x1080/pwd8A9iN8wJ_uPY7.mp4?tag=29",
+    "duration_s": 76
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "section": "视频与动画（附源码）",
+  "title": "Godzilla Nights",
+  "title_zh": "哥斯拉之夜",
+  "description": "Images drawn in pure code, lightly animated.",
+  "description_zh": "纯代码画图加动画",
+  "author": "chetaslua",
+  "url": "https://github.com/ChetasLua/godzilla-nights",
+  "extra_links": [],
+  "post": "https://x.com/chetaslua/status/2119981510199808368",
+  "likes": 159,
+  "preview": "assets/gifs/055.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119981120725057536/vid/avc1/3020x1652/ZwE2e-b0ZLb-ZFdm.mp4?tag=29",
+    "duration_s": 11.413
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "section": "视频与动画（附源码）",
+  "title": "Ballpoint",
+  "title_zh": "圆珠笔微距 ASMR",
+  "description": "Macro ASMR of a ballpoint pen, open-sourced to prove it is code, not a video model.",
+  "description_zh": "开源证明不是视频模型生成",
+  "author": "camperaigg",
+  "url": "https://github.com/crossps/ballpoint",
+  "extra_links": [],
+  "post": "https://x.com/camperaigg/status/2119777467074580741",
+  "likes": 239,
+  "preview": "assets/gifs/056.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119757831654232064/vid/avc1/1920x1080/6YIPLHWGm2AltVG3.mp4?tag=29",
+    "duration_s": 22
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "section": "视频与动画（附源码）",
+  "title": "Robot Hand on a Spiral Staircase",
+  "title_zh": "机器手指走螺旋楼梯",
+  "description": "Fable 5.2 + the Steel physics engine: a hand walking on its fingers.",
+  "description_zh": "Fable 5.2 + Steel 物理引擎",
+  "author": "Luckyballa",
+  "url": "https://github.com/skild-ai/steel-webgpu/pull/7",
+  "extra_links": [],
+  "post": "https://x.com/Luckyballa/status/2119915557663506720",
+  "likes": 52,
+  "preview": "assets/gifs/057.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119915464818307072/vid/avc1/3112x1750/wGAUb7dOfEFwPL6U.mp4?tag=29",
+    "duration_s": 16.6
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "section": "视频与动画（附源码）",
+  "title": "Kumiko Launch Film",
+  "title_zh": "Kumiko 宣传片",
+  "description": "Given only the music and the website, one shot. The plugin used is linked.",
+  "description_zh": "只给了音乐和网站，一次出片",
+  "author": "sudoaptaj",
+  "url": "https://usekumiko.app/",
+  "extra_links": [
+   "插件 https://github.com/atuljha23/claude-motion-skill"
+  ],
+  "post": "https://x.com/sudoaptaj/status/2119937909373460990",
+  "likes": 15,
+  "preview": "assets/gifs/058.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119937814166986753/vid/avc1/1920x1080/ee3fdgwQpSBn4K7Z.mp4?tag=29",
+    "duration_s": 36.499
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "section": "video-only",
+  "title": "Anthropic: pre-release projects",
+  "title_zh": "官方：预发布测试期间的各领域项目合集",
+  "description": "What Fable 5.2 and Mythos 5.2 built across fields during testing.",
+  "description_zh": "",
+  "author": "claudeai",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/claudeai/status/2119899459761131615",
+  "likes": 30793,
+  "preview": "assets/gifs/061.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119889970664030208/vid/avc1/3840x2160/TjiSWoJMgqYdilSp.mp4?tag=29",
+    "duration_s": 47.666
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "section": "video-only",
+  "title": "Da Vinci's notebooks, interactive",
+  "title_zh": "达·芬奇 500 年前笔记本里的发明做成可交互",
+  "description": "A 500-year-old notebook PDF turned into inventions you can play with.",
+  "description_zh": "",
+  "author": "alexalbert__",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/alexalbert__/status/2119916954337349737",
+  "likes": 1833,
+  "preview": "assets/gifs/062.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119916917502926849/vid/avc1/1080x1350/LDBsZC4Ong-7XOt4.mp4?tag=16",
+    "duration_s": 24.983
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "section": "video-only",
+  "title": "Fishslop run",
+  "title_zh": "Fishslop 测试，76 分钟 $42",
+  "description": "76 minutes, ~$42.",
+  "description_zh": "",
+  "author": "theo",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/theo/status/2119926277801144695",
+  "likes": 2010,
+  "preview": "assets/gifs/063.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119926035043237888/vid/avc1/1568x1080/6oTKgoLPQHeLU1Q7.mp4?tag=29",
+    "duration_s": 76.65
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "section": "video-only",
+  "title": "Arena FPS with portals",
+  "title_zh": "带传送门的竞技场 FPS，办公室里对战",
+  "description": "Playtested in the office.",
+  "description_zh": "",
+  "author": "_sholtodouglas",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/_sholtodouglas/status/2119935331499925557",
+  "likes": 1560,
+  "preview": "assets/gifs/064.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119935171541831680/vid/avc1/1280x720/xSA0i-YfHsQC-kLT.mp4?tag=29",
+    "duration_s": 71.4
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "section": "video-only",
+  "title": "Fast-camera 3D scene",
+  "title_zh": "高速运镜 3D 场景，30 分钟 + Opus 子 Agent",
+  "description": "30 minutes with a few Opus 5.5 subagents.",
+  "description_zh": "",
+  "author": "LexnLin",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/LexnLin/status/2119880654858977333",
+  "likes": 1547,
+  "preview": "assets/gifs/065.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "section": "video-only",
+  "title": "A message to video editors",
+  "title_zh": "给剪辑师的「抢饭碗」宣言视频",
+  "description": "",
+  "description_zh": "",
+  "author": "ChrisGPT",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ChrisGPT/status/2119998815856218494",
+  "likes": 1379,
+  "preview": "assets/gifs/066.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119998768925884416/vid/avc1/1080x1920/t1VjqW87Q7zQRpsf.mp4?tag=29",
+    "duration_s": 43.6
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "section": "video-only",
+  "title": "An operating system from an empty folder",
+  "title_zh": "官方演示：从空文件夹造操作系统（转述）",
+  "description": "Anthropic's demo of 1,000+ coordinated agents.",
+  "description_zh": "",
+  "author": "chetaslua",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/chetaslua/status/2119870650722763052",
+  "likes": 1112,
+  "preview": "assets/gifs/067.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119870583769030656/vid/avc1/1920x1080/8_iQVonyTA5DtYMh.mp4?tag=29",
+    "duration_s": 38.28
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "section": "video-only",
+  "title": "Addictive volume slider",
+  "title_zh": "上瘾的音量滑块，10 分钟 $8.43",
+  "description": "10 minutes, $8.43.",
+  "description_zh": "",
+  "author": "vib3coded",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/vib3coded/status/2119876781700505627",
+  "likes": 1033,
+  "preview": "assets/gifs/068.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119876729435033600/vid/avc1/1920x1080/QB_mINigwFKRIql6.mp4?tag=29",
+    "duration_s": 12.8
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "section": "video-only",
+  "title": "Glass Pool (Fable vs Opus)",
+  "title_zh": "玻璃泳池，Fable 对 Opus",
+  "description": "",
+  "description_zh": "",
+  "author": "MrTacticalX",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/MrTacticalX/status/2119955647542542439",
+  "likes": 812,
+  "preview": "assets/gifs/069.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119955491941949440/vid/avc1/1080x1216/I1OZU6Yuz2YtpyCA.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "section": "video-only",
+  "title": "One-prompt GTA 6",
+  "title_zh": "一条提示词的 GTA 6",
+  "description": "",
+  "description_zh": "",
+  "author": "ericmaskfr",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ericmaskfr/status/2119910195325481026",
+  "likes": 709,
+  "preview": "assets/gifs/070.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119904283038560256/vid/avc1/1920x1080/nYWeJJhHoCA18t6H.mp4?tag=29",
+    "duration_s": 135.333
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "section": "video-only",
+  "title": "One-shot reel",
+  "title_zh": "一次生成合集",
+  "description": "",
+  "description_zh": "",
+  "author": "WesRoth",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/WesRoth/status/2119953913160093817",
+  "likes": 573,
+  "preview": "assets/gifs/071.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119952951469121536/vid/avc1/1920x1080/Zi31n_byuULdQbUB.mp4?tag=29",
+    "duration_s": 147
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "section": "video-only",
+  "title": "Opus 5.5 vs Fable 5.2",
+  "title_zh": "Opus 对 Fable",
+  "description": "",
+  "description_zh": "",
+  "author": "dom_scholz",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/dom_scholz/status/2119933150025363661",
+  "likes": 464,
+  "preview": "assets/gifs/072.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119932946857500672/vid/avc1/1920x960/4qAu5xAz1dOxAJwl.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "section": "video-only",
+  "title": "A whole movie in code",
+  "title_zh": "纯代码整部电影，配音画面全包",
+  "description": "Voices, graphics, everything.",
+  "description_zh": "",
+  "author": "mattshumer_",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/mattshumer_/status/2119900920347828670",
+  "likes": 400,
+  "preview": "assets/gifs/073.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119898352494018560/vid/avc1/1920x804/1Lko3p6nRLsw04c8.mp4?tag=29",
+    "duration_s": 2929.1
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "section": "video-only",
+  "title": "AAA three.js basketball",
+  "title_zh": "AAA 级 three.js 篮球",
+  "description": "",
+  "description_zh": "",
+  "author": "alightinastorm",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/alightinastorm/status/2120010936584945922",
+  "likes": 355,
+  "preview": "assets/gifs/074.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120010868461129728/vid/avc1/1920x954/Lp_-sxC1qTlTrdou.mp4?tag=29",
+    "duration_s": 41.266
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "section": "video-only",
+  "title": "A data-pipeline write-up that became a design",
+  "title_zh": "数据管线写着写着做成的设计稿",
+  "description": "",
+  "description_zh": "",
+  "author": "theo",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/theo/status/2120104895646937409",
+  "likes": 327,
+  "preview": "assets/gifs/075.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120104719368822784/vid/avc1/2970x2158/cikJnBn2DLTeaKxF.mp4?tag=29",
+    "duration_s": 2.83
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "section": "video-only",
+  "title": "Ink letters",
+  "title_zh": "打字生成墨水字形，实时流体 + 音效",
+  "description": "Type a character and it becomes live fluid ink, with sound.",
+  "description_zh": "",
+  "author": "op7418",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/op7418/status/2120085300185833878",
+  "likes": 298,
+  "preview": "assets/gifs/076.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120084094549987328/vid/avc1/1920x1080/ZIT4h5bEZdMnBsHV.mp4?tag=29",
+    "duration_s": 66.385
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "section": "video-only",
+  "title": "Rocket launch (Fable vs Opus)",
+  "title_zh": "火箭发射，Fable 对 Opus",
+  "description": "",
+  "description_zh": "",
+  "author": "Bhavani_00007",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Bhavani_00007/status/2119902204320780676",
+  "likes": 295,
+  "preview": "assets/gifs/077.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119899808148361217/vid/avc1/1200x1200/V4WNrGUi9IJJUHje.mp4?tag=29",
+    "duration_s": 25
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "section": "video-only",
+  "title": "A video edited by Fable about editing with Fable",
+  "title_zh": "Fable 剪的关于 Fable 剪辑的视频",
+  "description": "",
+  "description_zh": "",
+  "author": "rileybrown",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/rileybrown/status/2119973951027724385",
+  "likes": 294,
+  "preview": "assets/gifs/078.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119972891651452929/vid/avc1/2160x3840/koy2RvIuzo4BcfED.mp4?tag=29",
+    "duration_s": 121.254
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "section": "video-only",
+  "title": "A stylized MMO world in a day",
+  "title_zh": "一天做出 MMO 世界",
+  "description": "",
+  "description_zh": "",
+  "author": "Izkimar",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Izkimar/status/2119931740940640542",
+  "likes": 275,
+  "preview": "assets/gifs/079.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119927822403731456/vid/avc1/1920x1080/lLbNXswd4WBpeVVs.mp4?tag=29",
+    "duration_s": 96.479
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "section": "video-only",
+  "title": "Tropical-island FPS",
+  "title_zh": "热带岛屿写实 FPS，一条提示词",
+  "description": "One prompt.",
+  "description_zh": "",
+  "author": "imantiai",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/imantiai/status/2119979537320534135",
+  "likes": 273,
+  "preview": "assets/gifs/080.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119977740925378560/vid/avc1/1728x1080/OaeAKSXEkU1CwSCP.mp4?tag=29",
+    "duration_s": 30.912
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "section": "video-only",
+  "title": "App redesign, 5.1 vs 5.2",
+  "title_zh": "同提示词 5.1 对 5.2 的 App 改版",
+  "description": "",
+  "description_zh": "",
+  "author": "RuslanKyrch",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/RuslanKyrch/status/2119896220814762218",
+  "likes": 242,
+  "preview": "assets/gifs/081.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119896097871020033/vid/avc1/1080x1350/74MeMX8TbhcEEtI_.mp4?tag=29",
+    "duration_s": 19.6
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "section": "video-only",
+  "title": "Same prompt, Fable vs Opus",
+  "title_zh": "Fable 对 Opus 同题",
+  "description": "",
+  "description_zh": "",
+  "author": "notjazii",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/notjazii/status/2119886035421442097",
+  "likes": 200,
+  "preview": "assets/gifs/082.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/tweet_video/HWtY5DsbQAAbRKJ.mp4",
+    "duration_s": 0
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "section": "video-only",
+  "title": "Chalk art comes alive",
+  "title_zh": "粉笔画活过来",
+  "description": "",
+  "description_zh": "",
+  "author": "dfeinition",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/dfeinition/status/2119881243990859818",
+  "likes": 199,
+  "preview": "assets/gifs/083.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119871816848084993/vid/avc1/3840x2160/KTr_-pLweRTaTs_F.mp4?tag=29",
+    "duration_s": 31.051
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "section": "video-only",
+  "title": "Fabric and light",
+  "title_zh": "布料褶皱与光",
+  "description": "",
+  "description_zh": "",
+  "author": "dfeinition",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/dfeinition/status/2119886262211625062",
+  "likes": 186,
+  "preview": "assets/gifs/085.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29",
+    "duration_s": 19.009
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "section": "video-only",
+  "title": "Blender + Reaper sound design",
+  "title_zh": "Blender + Reaper 声音设计",
+  "description": "",
+  "description_zh": "",
+  "author": "AmirMushich",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/AmirMushich/status/2119903338078564844",
+  "likes": 182,
+  "preview": "assets/gifs/086.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29",
+    "duration_s": 10
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "section": "video-only",
+  "title": "Lawn-mowing simulator",
+  "title_zh": "割草模拟器",
+  "description": "",
+  "description_zh": "",
+  "author": "_MaxBlade",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/_MaxBlade/status/2119992020076814436",
+  "likes": 178,
+  "preview": "assets/gifs/087.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119991400083173376/vid/avc1/1080x1920/PWawsxKpcMFAtnR2.mp4?tag=29",
+    "duration_s": 54
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "section": "video-only",
+  "title": "An ad with the ElevenLabs MCP",
+  "title_zh": "Fable + ElevenLabs MCP 做广告",
+  "description": "",
+  "description_zh": "",
+  "author": "ElevenCreative",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ElevenCreative/status/2120025947709837525",
+  "likes": 177,
+  "preview": "assets/gifs/088.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120025916705583104/vid/avc1/1920x1080/14s-21lKVJ41rL9u.mp4?tag=16",
+    "duration_s": 30.866
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "section": "video-only",
+  "title": "Blender castle (Fable vs Opus)",
+  "title_zh": "Blender 城堡，Fable 对 Opus",
+  "description": "",
+  "description_zh": "",
+  "author": "Stefan_3D_AI",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Stefan_3D_AI/status/2120041169719894165",
+  "likes": 174,
+  "preview": "assets/gifs/089.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120041091856760832/vid/avc1/720x720/VDd5QRS-Wu4EzgwP.mp4?tag=29",
+    "duration_s": 31
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "section": "video-only",
+  "title": "Pelican riding a bicycle in Blender",
+  "title_zh": "Blender 鹈鹕骑自行车，4800 行 Python",
+  "description": "~4,800 lines of Python, 444 frames.",
+  "description_zh": "",
+  "author": "themianoo",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/themianoo/status/2120042064666882266",
+  "likes": 171,
+  "preview": "assets/gifs/090.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119924755642142720/vid/avc1/1920x1080/FSal6V3h5_D38_cH.mp4?tag=29",
+    "duration_s": 18.5
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "section": "video-only",
+  "title": "Sword-fighting game",
+  "title_zh": "剑斗游戏",
+  "description": "",
+  "description_zh": "",
+  "author": "EvanMilenko",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/EvanMilenko/status/2119969113762082931",
+  "likes": 171,
+  "preview": "assets/gifs/091.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119968397605634048/vid/avc1/1920x1080/TI9QjXg6yXyPzGfs.mp4?tag=29",
+    "duration_s": 30.96
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "section": "video-only",
+  "title": "Music video",
+  "title_zh": "音乐 MV",
+  "description": "",
+  "description_zh": "",
+  "author": "WesRoth",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/WesRoth/status/2119911161386934330",
+  "likes": 162,
+  "preview": "assets/gifs/092.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29",
+    "duration_s": 37.013
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "section": "video-only",
+  "title": "4 hours in Unreal Engine 5.9 via MCP",
+  "title_zh": "Unreal Engine 5.9 MCP 跑 4 小时",
+  "description": "",
+  "description_zh": "",
+  "author": "_MaxBlade",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/_MaxBlade/status/2120109725740159390",
+  "likes": 142,
+  "preview": "assets/gifs/093.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120109165393715200/vid/avc1/1920x1080/nJhRHKUF8oxEnIPb.mp4?tag=29",
+    "duration_s": 121.45
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "section": "video-only",
+  "title": "1886 New York floating in the sky",
+  "title_zh": "漂浮在空中的 1886 年纽约",
+  "description": "",
+  "description_zh": "",
+  "author": "semichenkko",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/semichenkko/status/2119960596951236675",
+  "likes": 137,
+  "preview": "assets/gifs/094.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119960556148789248/vid/avc1/1024x1280/EB2sA1AyYH6x0E3g.mp4?tag=29",
+    "duration_s": 10
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "section": "video-only",
+  "title": "Monica's apartment in three.js",
+  "title_zh": "three.js 莫妮卡的公寓",
+  "description": "",
+  "description_zh": "",
+  "author": "chetaslua",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/chetaslua/status/2120111159726727321",
+  "likes": 135,
+  "preview": "assets/gifs/095.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120110637703684097/vid/avc1/1920x1080/pCP2zm3KGc27kZDv.mp4?tag=29",
+    "duration_s": 32.4
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "section": "video-only",
+  "title": "SwiftUI eye-color app",
+  "title_zh": "SwiftUI 换瞳色 App",
+  "description": "",
+  "description_zh": "",
+  "author": "solotechdev",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/solotechdev/status/2120071690482794603",
+  "likes": 134,
+  "preview": "assets/gifs/096.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120070228587503616/vid/avc1/2322x2160/Le2sOX50jR9EGceW.mp4?tag=29",
+    "duration_s": 81.223
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "section": "video-only",
+  "title": "A symphony",
+  "title_zh": "交响乐",
+  "description": "",
+  "description_zh": "",
+  "author": "RJasonHA",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/RJasonHA/status/2120007540713099768",
+  "likes": 130,
+  "preview": "assets/gifs/097.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119902001651732480/vid/avc1/1920x1080/18GEhWrjRNZG0TGU.mp4?tag=29",
+    "duration_s": 248.5
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "section": "video-only",
+  "title": "A robot you could build at home",
+  "title_zh": "能在公寓里真做出来的机器人",
+  "description": "",
+  "description_zh": "",
+  "author": "mattshumer_",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/mattshumer_/status/2119889518564147409",
+  "likes": 128,
+  "preview": "assets/gifs/098.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119889498527969281/vid/avc1/960x540/EqG79zEwj6BDTrPE.mp4?tag=29",
+    "duration_s": 20.266
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "section": "video-only",
+  "title": "Pelican on a bicycle (classic test)",
+  "title_zh": "鹈鹕骑自行车经典测试",
+  "description": "",
+  "description_zh": "",
+  "author": "abhinavflac",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/abhinavflac/status/2119884257145581980",
+  "likes": 122,
+  "preview": "assets/gifs/099.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119884052622876672/vid/avc1/1920x1080/cKq9zTwAltKH6RX3.mp4?tag=29",
+    "duration_s": 10.783
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "section": "video-only",
+  "title": "Claymation",
+  "title_zh": "黏土动画",
+  "description": "",
+  "description_zh": "",
+  "author": "dfeinition",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/dfeinition/status/2119892208937517201",
+  "likes": 116,
+  "preview": "assets/gifs/100.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119891424564895744/vid/avc1/2160x2160/cw5WN1voZQCaOihD.mp4?tag=29",
+    "duration_s": 20.009
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "section": "video-only",
+  "title": "Four game-machine concepts",
+  "title_zh": "4 台游戏机械概念，VFX 物理",
+  "description": "VFX, mechanics and physics tests.",
+  "description_zh": "",
+  "author": "techartist_",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/techartist_/status/2119946891106394518",
+  "likes": 114,
+  "preview": "assets/gifs/102.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119922739230445568/vid/avc1/1920x1080/1eCM-Y_xZwPgP5Pv.mp4?tag=29",
+    "duration_s": 20
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "section": "video-only",
+  "title": "A library at midnight",
+  "title_zh": "深夜图书馆两万四千页飞舞",
+  "description": "24,000 pages take flight.",
+  "description_zh": "",
+  "author": "lemomo_ai",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/lemomo_ai/status/2120118194409193682",
+  "likes": 105,
+  "preview": "assets/gifs/103.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29",
+    "duration_s": 55
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "section": "video-only",
+  "title": "A Bach-style fugue",
+  "title_zh": "巴赫风格赋格（LilyPond）",
+  "description": "Written in LilyPond.",
+  "description_zh": "",
+  "author": "aug5thmusic",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/aug5thmusic/status/2119907891419480107",
+  "likes": 90,
+  "preview": "assets/gifs/104.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119907826441281536/vid/avc1/1920x1080/13FC2zlDEvO5R2Lq.mp4?tag=29",
+    "duration_s": 124.566
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "section": "video-only",
+  "title": "Motion blending, explained by a robot",
+  "title_zh": "动作融合讲解机器人",
+  "description": "",
+  "description_zh": "",
+  "author": "dfeinition",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/dfeinition/status/2119870838606381391",
+  "likes": 86,
+  "preview": "assets/gifs/105.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29",
+    "duration_s": 60.4
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "section": "video-only",
+  "title": "Recreating a Bora Bora photo",
+  "title_zh": "用绘图工具复刻波拉波拉照片",
+  "description": "",
+  "description_zh": "",
+  "author": "AlchainHust",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/AlchainHust/status/2120065556003102731",
+  "likes": 79,
+  "preview": "assets/gifs/106.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120065389812232192/vid/avc1/1920x1080/z1qLrqBKjV0qoNLK.mp4?tag=29",
+    "duration_s": 22.5
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "section": "video-only",
+  "title": "Rubik's cube robot (Fable vs Opus)",
+  "title_zh": "解魔方机器人，Fable 对 Opus",
+  "description": "",
+  "description_zh": "",
+  "author": "charliejhills",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/charliejhills/status/2120105823737397644",
+  "likes": 78,
+  "preview": "assets/gifs/107.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120105639976517633/vid/avc1/720x1280/fM8aFW4OSouVqFDr.mp4?tag=29",
+    "duration_s": 10.709
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "section": "video-only",
+  "title": "A studio rebuilt from photos",
+  "title_zh": "照 Riley 做自己的工作室",
+  "description": "",
+  "description_zh": "",
+  "author": "rpnickson",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/rpnickson/status/2119969928304357507",
+  "likes": 68,
+  "preview": "assets/gifs/108.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119969867587563520/vid/avc1/1920x1080/zs0P1ZS749fhO3iJ.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "section": "video-only",
+  "title": "A launch film from one sentence",
+  "title_zh": "一句话给 BlewUp 做发布片",
+  "description": "",
+  "description_zh": "",
+  "author": "wangray",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/wangray/status/2120040640423850168",
+  "likes": 68,
+  "preview": "assets/gifs/109.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120040523817984000/vid/avc1/1920x1080/Wa1XWwfRw6eLDTQA.mp4?tag=29",
+    "duration_s": 18.6
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "section": "video-only",
+  "title": "Kids' English cartoon",
+  "title_zh": "儿童英语启蒙动画",
+  "description": "",
+  "description_zh": "",
+  "author": "linxiaobei888",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/linxiaobei888/status/2119978892861829227",
+  "likes": 63,
+  "preview": "assets/gifs/110.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119974634523344896/vid/avc1/1920x1080/7EzivlAR3lILCLs4.mp4?tag=29",
+    "duration_s": 147
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "section": "video-only",
+  "title": "Sea serpent in Blender",
+  "title_zh": "Blender 海蛇缠船",
+  "description": "",
+  "description_zh": "",
+  "author": "Stefan_3D_AI",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Stefan_3D_AI/status/2120039417981333599",
+  "likes": 59,
+  "preview": "assets/gifs/111.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120038192166600704/vid/avc1/720x720/2e--zwqYMETpGoW6.mp4?tag=29",
+    "duration_s": 31.5
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "section": "video-only",
+  "title": "Four models, one text effect",
+  "title_zh": "四模型同题文字特效",
+  "description": "",
+  "description_zh": "",
+  "author": "leppppp1",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/leppppp1/status/2119960122713899015",
+  "likes": 55,
+  "preview": "assets/gifs/112.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119959392338755584/vid/avc1/1080x1350/bKKbk5NLO2479K9A.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "section": "video-only",
+  "title": "Virus capsid from 420 subunits",
+  "title_zh": "420 个蛋白亚基组装病毒衣壳",
+  "description": "One prompt, one HTML file.",
+  "description_zh": "",
+  "author": "TekonBurns",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/TekonBurns/status/2119871565311660260",
+  "likes": 52,
+  "preview": "assets/gifs/113.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119871440292077568/vid/avc1/3840x1748/UY8m3TUPRs8yFPMs.mp4?tag=29",
+    "duration_s": 14.543
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "section": "video-only",
+  "title": "Game with and without ElevenLabs audio",
+  "title_zh": "有无 ElevenLabs 音效的游戏对比",
+  "description": "",
+  "description_zh": "",
+  "author": "ElevenCreative",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ElevenCreative/status/2119963230403776554",
+  "likes": 47,
+  "preview": "assets/gifs/114.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119963163563307008/vid/avc1/1080x1350/_lgqVJuSV6zmLaUJ.mp4?tag=16",
+    "duration_s": 48.933
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "section": "video-only",
+  "title": "Sound-on piece",
+  "title_zh": "开声音看的效果",
+  "description": "",
+  "description_zh": "",
+  "author": "guanmo_ai",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/guanmo_ai/status/2119989925038985382",
+  "likes": 42,
+  "preview": "assets/gifs/115.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119848331253800962/vid/avc1/2960x1582/4cw11h2MMRr8dOb2.mp4?tag=29",
+    "duration_s": 32.336
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "section": "video-only",
+  "title": "Lion from a carpet (Fable vs Gemini)",
+  "title_zh": "狮子从地毯里爬出，Fable 对 Gemini",
+  "description": "",
+  "description_zh": "",
+  "author": "kinderlayer",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/kinderlayer/status/2120112222227648957",
+  "likes": 42,
+  "preview": "assets/gifs/116.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120112155764658177/vid/avc1/720x1280/Lwmv8vYowbajqiwH.mp4?tag=29",
+    "duration_s": 29.846
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "section": "video-only",
+  "title": "A $36 Game of Thrones dragon",
+  "title_zh": "$36 的权游级巨龙",
+  "description": "",
+  "description_zh": "",
+  "author": "Lummox_eth",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Lummox_eth/status/2120093679243194793",
+  "likes": 42,
+  "preview": "assets/gifs/117.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120093641683181568/vid/avc1/1024x1024/vlvNR0c9r6-xWBiD.mp4?tag=29",
+    "duration_s": 10
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "section": "video-only",
+  "title": "A mobile game running as an Artifact",
+  "title_zh": "手机上跑的 Artifact 游戏",
+  "description": "",
+  "description_zh": "",
+  "author": "ChrisGPT",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ChrisGPT/status/2119989626568126509",
+  "likes": 40,
+  "preview": "assets/gifs/118.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119989340444995584/vid/avc1/1776x3144/vqPzFj9FTYg1Ckmq.mp4?tag=29",
+    "duration_s": 67.9
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "section": "video-only",
+  "title": "A day-one film (prompt PDF shared)",
+  "title_zh": "发布当天做的片子（附提示词 PDF）",
+  "description": "",
+  "description_zh": "",
+  "author": "flxrnc",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/flxrnc/status/2119961301791174720",
+  "likes": 40,
+  "preview": "assets/gifs/119.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119959530293334016/vid/avc1/1920x1080/7-gopURK2t5xPhVp.mp4?tag=29",
+    "duration_s": 39.183
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "section": "video-only",
+  "title": "Tesla Roadster kickflip in Blender",
+  "title_zh": "Blender 复刻特斯拉 Roadster 翻板",
+  "description": "",
+  "description_zh": "",
+  "author": "Stefan_3D_AI",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/Stefan_3D_AI/status/2120101582444597446",
+  "likes": 38,
+  "preview": "assets/gifs/120.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120101287497019392/vid/avc1/720x720/DtwJAVEquUxixOm_.mp4?tag=29",
+    "duration_s": 17.726
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "section": "video-only",
+  "title": "Paris on a floating island",
+  "title_zh": "浮岛上建造中的埃菲尔铁塔",
+  "description": "",
+  "description_zh": "",
+  "author": "ItsmeAjayKV",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/ItsmeAjayKV/status/2119896772713849174",
+  "likes": 32,
+  "preview": "assets/gifs/121.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119894096084910080/vid/avc1/1920x1080/7-lN899uuXxwQv1y.mp4?tag=29",
+    "duration_s": 14
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "section": "video-only",
+  "title": "Snow Globe (Fable vs Opus)",
+  "title_zh": "雪花球，Fable 对 Opus",
+  "description": "",
+  "description_zh": "",
+  "author": "MrTacticalX",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/MrTacticalX/status/2119949557664735583",
+  "likes": 30,
+  "preview": "assets/gifs/122.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2119949429515911168/vid/avc1/1080x1920/GUBXgugMFrHf9SDb.mp4?tag=29",
+    "duration_s": 30
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "section": "video-only",
+  "title": "Chinatown in code",
+  "title_zh": "代码搭的唐人街",
+  "description": "",
+  "description_zh": "",
+  "author": "RJasonHA",
+  "url": null,
+  "extra_links": [],
+  "post": "https://x.com/RJasonHA/status/2120075740222005569",
+  "likes": 35,
+  "preview": "assets/gifs/123.gif",
+  "videos": [
+   {
+    "url": "https://video.twimg.com/amplify_video/2120055250589769728/vid/avc1/1920x1080/OfWGlaezenAoZWld.mp4?tag=29",
+    "duration_s": 74
+   }
+  ]
+ }
+]
